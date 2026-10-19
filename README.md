@@ -1,0 +1,13 @@
+# Imagens da página FOLIT
+
+Imagens usadas na landing page, servidas por CDN (jsDelivr).
+
+| Arquivo | Fonte | Licença |
+|---|---|---|
+| ingredientes/peptideo-de-cobre.jpg | https://unsplash.com/photos/zU-hNrDHVfI | Licença Unsplash |
+| ingredientes/cafeina.jpg | https://unsplash.com/photos/CrNIeoxnGOU | Licença Unsplash |
+| ingredientes/ginseng.jpg | https://unsplash.com/photos/JhOuD2wEiJs | Licença Unsplash |
+| ingredientes/saw-palmetto.jpg | https://commons.wikimedia.org/wiki/File:File-Scientific_Name-_Serenoa_repens_-Common_Name-_Saw_Palmetto_(95724939-9d50-43cf-bd1c-a31a41fc831e).tif | Domínio público (NPS) |
+| ingredientes/alcacuz.jpg | https://commons.wikimedia.org/wiki/File:Liquiritiae_radix_suessholzwurzel.jpg | Domínio público |
+
+Endereço de cada imagem: `https://cdn.jsdelivr.net/gh/Zimuspro/folit-imagens@main/ingredientes/NOME.jpg`
