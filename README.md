@@ -12,5 +12,6 @@ Imagens usadas na landing page, servidas por CDN (jsDelivr).
 
 | produto/kit-folit-sem-fundo.png | Foto do kit FOLIT (marca própria), fundo removido | Própria |
 | marca/fundador-folit.jpg | Foto do fundador da FOLIT (enviada pela marca) | Própria |
+| publicacoes/*.png | Nomes das revistas científicas em texto (gerados pela marca, sem logo oficial) | Própria |
 
 Endereço de cada imagem: `https://cdn.jsdelivr.net/gh/Zimuspro/folit-imagens@main/ingredientes/NOME.jpg`
