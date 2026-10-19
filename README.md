@@ -11,5 +11,6 @@ Imagens usadas na landing page, servidas por CDN (jsDelivr).
 | ingredientes/alcacuz.jpg | https://commons.wikimedia.org/wiki/File:Liquiritiae_radix_suessholzwurzel.jpg | Domínio público |
 
 | produto/kit-folit-sem-fundo.png | Foto do kit FOLIT (marca própria), fundo removido | Própria |
+| marca/fundador-folit.jpg | Foto do fundador da FOLIT (enviada pela marca) | Própria |
 
 Endereço de cada imagem: `https://cdn.jsdelivr.net/gh/Zimuspro/folit-imagens@main/ingredientes/NOME.jpg`
