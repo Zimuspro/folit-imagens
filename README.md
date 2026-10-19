@@ -10,4 +10,6 @@ Imagens usadas na landing page, servidas por CDN (jsDelivr).
 | ingredientes/saw-palmetto.jpg | https://commons.wikimedia.org/wiki/File:File-Scientific_Name-_Serenoa_repens_-Common_Name-_Saw_Palmetto_(95724939-9d50-43cf-bd1c-a31a41fc831e).tif | Domínio público (NPS) |
 | ingredientes/alcacuz.jpg | https://commons.wikimedia.org/wiki/File:Liquiritiae_radix_suessholzwurzel.jpg | Domínio público |
 
+| produto/kit-folit-sem-fundo.png | Foto do kit FOLIT (marca própria), fundo removido | Própria |
+
 Endereço de cada imagem: `https://cdn.jsdelivr.net/gh/Zimuspro/folit-imagens@main/ingredientes/NOME.jpg`
